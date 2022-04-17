@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pandas
+isthmuslib==0.0.71
+jupyterlab
+hdbscan
+ipywidgets
